@@ -1,0 +1,13 @@
+{
+  "name": "vercel-vless-proxy",
+  "version": "1.0.0",
+  "main": "api/vless.js",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.0.0",
+    "buffer": "^6.0.3" 
+  },
+  "scripts": {
+    "start": "node api/vless.js"
+  }
+}
