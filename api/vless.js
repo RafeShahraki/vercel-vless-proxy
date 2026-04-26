@@ -5,7 +5,7 @@ import { Buffer } from 'buffer';
 import WebSocket from 'ws'; 
 
 // --- CONFIGURATION ---
-const userID = '8ccc2243-7f0e-4bea-8ea5-62e57e995f1d'; // REPLACE WITH YOUR UUID
+const userID = 'ad71c032-a422-4723-8b70-1eeb7d57af40'; // REPLACE WITH YOUR UUID
 const proxyHost = "159.203.88.245"; // Your upstream proxy host/IP
 const proxyPort = 443; 
 
