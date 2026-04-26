@@ -6,7 +6,7 @@ import WebSocket from 'ws';
 
 // --- CONFIGURATION ---
 const userID = 'ad71c032-a422-4723-8b70-1eeb7d57af40'; // REPLACE WITH YOUR UUID
-const proxyHost = "159.203.88.245"; // Your upstream proxy host/IP
+const proxyHost = "www.google.com"; // Your upstream proxy host/IP
 const proxyPort = 443; 
 
 // --- SECURITY AND UTILS ---
